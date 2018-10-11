@@ -11,7 +11,7 @@
   ],
   "swagger": "2.0",
   "info": {
-    "description": "API for TAPOST 2018",
+    "description": "API for SIGNAL 2018",
     "title": "StoreAPI",
     "version": "v0.1.0"
   },
