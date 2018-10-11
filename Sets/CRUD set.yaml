@@ -1,0 +1,9 @@
+test: set
+name: CRUD set
+description: <insert description of test set>
+cases:
+- boxes CRUD json
+- calls CRUD json
+- oranges CRUD json
+- bananas CRUD json
+parallel: false
