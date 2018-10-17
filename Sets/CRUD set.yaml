@@ -1,9 +1,0 @@
-test: set
-name: CRUD set
-description: Smoke set for storeAPI
-cases:
-- bananas CRUD json
-- boxes CRUD json
-- calls CRUD json
-- oranges CRUD json
-parallel: false
