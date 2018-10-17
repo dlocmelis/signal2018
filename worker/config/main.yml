@@ -1,0 +1,11 @@
+connection:
+  access_token: NWJjN2I3MTItMzFjYS0xODZjLThlZDMtZTBkNS02NWU1YTI5YTphZDI0MTRjMC1kMjViLTExZTgtOGJjZC01ZDNlMmQ1ZDc1NTQ=
+  master_host: apimation.com:9000
+worker:
+  type: loc
+  port: 9675
+  job_limit: 200
+  debug: false
+  dev: false
+  logOnlyToFile: true
+  log_path: /Users/dlocmelis/demo/signal2018/worker/logs/worker
