@@ -2,7 +2,7 @@ connection:
   access_token: NWJjN2I3MTItMzFjYS0xODZjLThlZDMtZTBkNS02NWU1YTI5YTphZDI0MTRjMC1kMjViLTExZTgtOGJjZC01ZDNlMmQ1ZDc1NTQ=
   master_host: apimation.com:9000
 worker:
-  type: loc
+  type: c6c8d49a-d32d-11e8-aaf4-6a00020ac460
   port: 9675
   job_limit: 2000
   debug: false

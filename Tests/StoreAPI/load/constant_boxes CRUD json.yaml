@@ -1,0 +1,11 @@
+test: load
+name: boxes CRUD json 1000rps
+loadtype: constant
+details:
+  testCase: bananas CRUD json
+  duration: 10s
+  rate: 2200
+  asserts:
+  - type: latency
+    metric: max
+    expected: 200ms

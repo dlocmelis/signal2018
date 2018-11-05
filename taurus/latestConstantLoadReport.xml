@@ -1,0 +1,18 @@
+ <FinalStatus>
+     <TestDuration>5.420017328</TestDuration>
+     <Group label="">
+         <concurrency value="70.29497821561208"></concurrency>
+         <throughput value="381"></throughput>
+         <succ value="381"></succ>
+         <fail value="0"></fail>
+         <avg_rt value="5.420017328"></avg_rt>
+         <stdev_rt value="0"></stdev_rt>
+         <avg_ct value="0"></avg_ct>
+         <avg_lt value="0.474570891"></avg_lt>
+         <rc value="381" param="201"></rc>
+         <perc value="0.454498327" param="50.0"></perc>
+         <perc value="0.869603225" param="95.0"></perc>
+         <perc value="1.04289711" param="99.0"></perc>
+         <bytes value="74261"></bytes>
+     </Group>
+ </FinalStatus>

@@ -3,7 +3,7 @@ name: calls CRUD json
 loadtype: simulation
 details:
   testCase: calls CRUD json
-  users: 100
+  users: 1000
   duration: 10s
   distribution: random
   asserts:
